@@ -1,5 +1,5 @@
 # nuth-mods
-Nuth_AN's minecraft mods, resourpacks, and datapacks
+Nuth_AN's minecraft mods, resourcepacks, and datapacks
 
 Items with a star (★) next to them are things I highly recommend
 
