@@ -1,6 +1,8 @@
 # nuth-mods
 Nuth_AN's minecraft mods, resourpacks, and datapacks
 
+Items with a star (★) next to them are things I highly recommend
+
 ## **Mod Descriptions**
 
 <details>
@@ -17,7 +19,7 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - betterBeaconPlacement
   - Places down the base of the beacon by right clicking on a beacon with the mineral block in your hand. Also can break all the blocks by breaking the beacon. Huge time saver
 
-- betterF3
+- betterF3★
   - Improves F3 menu by color coding (highly customizable)
 
 - betterStats
@@ -42,7 +44,7 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 
 - collective (library)
 
-- continuity
+- continuity★
   - Adds connected textures similar to OptiFine
 
 - controlling (library)
@@ -59,14 +61,14 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - essential
   - Adds some useless cosmetics and allows hosting worlds for multiplayer with friends
 
-- fabricAPI (library)
+- fabricAPI★ (library)
 
-- carpet
+- carpet★
   - Adds a ton of cool technical features. A tonnnnnn
 
 - fabricLanguageKotlin (library)
 
-- indium (performance)
+- indium★ (performance)
   - Sodium addon that improves rendering API
 
 - inventoryHUD
@@ -75,27 +77,27 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - iris
   - Best shader loader in existence
 
-- itemScroller
+- itemScroller★
   - Amazing mod that makes it way easier to move items around in the inventory
 
 - kleeSlabs
   - Allows just breaking the top or bottom slab in a double slab
 
-- lambDynamicLights
+- lambDynamicLights★
   - Adds dynamic lights. Ex: holding a torch actually gives off light
 
-- litematica
+- litematica★
   - Building mod to creat ghost outlines of your builds for easier building process in survival
 
-- lithium (performance)
+- lithium★ (performance)
   - Great optimization addon for fabric. Reduces tons of lag
 
-- maLiLib (library)
+- maLiLib★ (library)
 
-- miniHUD
+- miniHUD★
   - Fantastic mod that adds a little HUD that can display whatever you want it to. Also implements some useful renderers. Highly customizable
 
-- modMenu
+- modMenu★
   - Adds a mod menu to help organize and configure mods in game
 
 - NE
@@ -104,19 +106,19 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - noResourcePackWarnings
   - Removes the warning that a resource pack is from an older version
 
-- reesesSodiumOptions
+- reesesSodiumOptions★
   - Improves the GUI of the sodium mod's options
 
 - searchables
   - Adds a search bar in the keybinds menu to help find conflicts
 
-- shulkerPlus
+- shulkerPlus★
   - Allows you to label shulker boxes with an item. Great for organization
 
-- sodiumExtra (performance)
+- sodiumExtra★ (performance)
   - Adds some more features to sodium
 
-- sodium (performance)
+- sodium★ (performance)
   - The goat of performance mods
 
 - stendhal
@@ -125,13 +127,13 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - tweakermore
   - Adds some more tweakeroo features. I forgot what features, but they're probably cool
 
-- tweakeroo
+- tweakeroo★
   - Allows for diagonal and offset block placement, orientation changes when placing, shulkerbox tooltips, freecam, and so much more. Highly customizable
 
 - voiceChat
   - Adds a simple voice chat
 
-- wiZoom
+- wiZoom★
   - My favorite zoom mod. It's just the zoom from the Wurst hack client (which I've never used)
 
 - yetAnotherConfigLib (library)
@@ -152,10 +154,10 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - armoredElytra
   - Drop an elytra and chestplate on an anvil to combine them
 
-- doubleShulkerShells
+- doubleShulkerShells★
   - Shulkers always drop two shulker shells upon death
 
-- fastLeafDecay
+- fastLeafDecay★
   - Makes leaves decay very quickly
 
 - vanillaTweaks
@@ -178,7 +180,7 @@ Nuth_AN's minecraft mods, resourpacks, and datapacks
 - nuthPaintings
   - I replaced all the paintings with my favorite funny images
 
-- redstoneTweaks
+- redstoneTweaks★
   - Extremely splendid pack that makes redstone components much easier to read and tell what direction they're facing, as well as much more
 
 - uniqueDiscs
