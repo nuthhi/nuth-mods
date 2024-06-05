@@ -3,6 +3,9 @@
 
 ## **Mod descriptions**
 
+<details>
+<summary>Mod List</summary>
+
 - advancementInfo
 Tells the user what they need to do to accomplish an advancement
 
@@ -133,8 +136,12 @@ My favorite zoom mod. It's just the zoom from the Wurst hack client (which I've 
 
 - yetAnotherConfigLib (library)
 
+</details>
 
 ## **Datapack Descriptions**
+
+<details>
+<summary>Datapack List</summary>
 
 - allMobHeads
 Adds mob heads and player heads
@@ -157,7 +164,13 @@ Allows for redying of stuff, dying sandstone to red sandstone, adds a bunch of s
 - villagerWorkstationHighlights
 Helps find which villager is assigned to which workstation
 
+</details>
+
 ## **Resourcepack Descriptions**
+
+<details>
+
+<summary>Resourcepack List</summary>
 
 - cowTotem
 A little texture I made that turns the totem of undying into a cute little cow
@@ -197,3 +210,5 @@ Gets some variation in the flowers
 
 - vanillaTweaks
 fixes bucket inconsistencies, item stitching, fixes dripleaf, makes leaves look nicer on fast graphics, removes fogs, fixes blaze textures, fixes decorated pot texture, gives axolotls a cute lil smile, adds a dark mode UI, fixes gamerule names to be the same as in the source code, makes wither hearts actually discernable, color indicates ping, makes particles less obtrusive, cleans up glass textures, cleans up scaffold texture, lowers the shield texture to see better when holding, removes the pumpkin effect when wearing a carved pumpkin, makes fire a shorter texture, indicates suspicious sand/gravel with an outline and infested blocks with a caution tape outline, gives banner patterns unique texture as an item, makes age25 kelp have flowers on it, makes sapling age2 taller, quiets villagers and nether portals, allows for different skin tones in villagers, shortens grass textures, wraps around grass, path, mycelium, and snow blocks, makes the savanna colors golden, makes log texture a little rounded, makes water clearer and easier to see through, gives iron golems some flower patterns on them, makes the xp bottle a splash potion texture, makes a golden helmet look like a crown, gives every dye a unique texture, makes shield banners HD, makes arrow tips colored like flint, makes moss carpets overhang, animates campfire item, adds variation in bookshelves, connects bookshelves, makes the spyglass useless, and makes the nether brighter
+
+</details>
