@@ -207,7 +207,7 @@ Items with a star (★) next to them are things I highly recommend
 - shrimpDistinctPotions
   - Gives each potion a unique texture
 
-- springFlowers
+- springFlowers★
   - Gets some variation in the flowers
 
 - vanillaTweaks
