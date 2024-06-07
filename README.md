@@ -212,5 +212,8 @@ Items with a star (★) next to them are things I highly recommend
 
 - vanillaTweaks
   - fixes bucket inconsistencies, item stitching, fixes dripleaf, makes leaves look nicer on fast graphics, removes fogs, fixes blaze textures, fixes decorated pot texture, gives axolotls a cute lil smile, adds a dark mode UI, fixes gamerule names to be the same as in the source code, makes wither hearts actually discernable, color indicates ping, makes particles less obtrusive, cleans up glass textures, cleans up scaffold texture, lowers the shield texture to see better when holding, removes the pumpkin effect when wearing a carved pumpkin, makes fire a shorter texture, indicates suspicious sand/gravel with an outline and infested blocks with a caution tape outline, gives banner patterns unique texture as an item, makes age25 kelp have flowers on it, makes sapling age2 taller, quiets villagers and nether portals, allows for different skin tones in villagers, shortens grass textures, wraps around grass, path, mycelium, and snow blocks, makes the savanna colors golden, makes log texture a little rounded, makes water clearer and easier to see through, gives iron golems some flower patterns on them, makes the xp bottle a splash potion texture, makes a golden helmet look like a crown, gives every dye a unique texture, makes shield banners HD, makes arrow tips colored like flint, makes moss carpets overhang, animates campfire item, adds variation in bookshelves, connects bookshelves, makes the spyglass useless, and makes the nether brighter
+ 
+- timeToShweep
+  - Changes phantoms voice to be Bdubs saying "Time to shweep!"
 
 </details>
