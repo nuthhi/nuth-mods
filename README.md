@@ -23,7 +23,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - ★betterF3
   - Improves F3 menu by color coding (highly customizable)
 
-- betterStats
+- ★betterStats
   - Makes the statistics screen look much prettier
 
 - boatHUD
@@ -38,9 +38,9 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - 🔔carpetTIS
   - More carpet additions, notably large barrels
 
-- 🔔clothConfig (library)
+- ★🔔clothConfig (library)
 
-- 🔔clumps (performance)
+- ★🔔clumps (performance)
   - Greatly decreases lag by clumping xp orbs together
 
 - collective (library)
@@ -75,7 +75,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - inventoryHUD
   - Adds some neat little HUDs. Highly customizable
 
-- iris
+- ★iris
   - Best shader loader in existence
 
 - ★itemScroller
@@ -104,7 +104,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - NE
   - I have no clue what this mod does, but I think it's a dependency for some other mod
 
-- noResourcePackWarnings
+- ★noResourcePackWarnings
   - Removes the warning that a resource pack is from an older version
 
 - ★🔔reesesSodiumOptions
@@ -122,7 +122,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - ★🔔sodium (performance)
   - The goat of performance mods
 
-- stendhal
+- ★stendhal
   - Adds the whole unicode library in the game GUI, allowing for symbols in signs, chat, etc.
 
 - tweakermore
@@ -131,7 +131,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - ★tweakeroo
   - Allows for diagonal and offset block placement, orientation changes when placing, shulkerbox tooltips, freecam, and so much more. Highly customizable
 
-- voiceChat
+- 🔔voiceChat
   - Adds a simple voice chat
 
 - ★wiZoom
@@ -149,7 +149,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - 🔔allMobHeads
   - Adds mob heads and player heads
 
-- 🔔antiGriefs
+- ★🔔antiGriefs
   - Stops endermen from picking up blocks and stops ghasts from breaking blocks
 
 - 🔔armoredElytra
