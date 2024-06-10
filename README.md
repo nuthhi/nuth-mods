@@ -2,6 +2,7 @@
 Nuth_AN's minecraft mods, resourcepacks, and datapacks
 
 Items with a star (★) next to them are things I highly recommend
+Items with a bell (🔔) next to them are things I use on nuthSMP
 
 ## **Mod Descriptions**
 
@@ -19,7 +20,7 @@ Items with a star (★) next to them are things I highly recommend
 - betterBeaconPlacement
   - Places down the base of the beacon by right clicking on a beacon with the mineral block in your hand. Also can break all the blocks by breaking the beacon. Huge time saver
 
-- betterF3★
+- ★betterF3
   - Improves F3 menu by color coding (highly customizable)
 
 - betterStats
@@ -31,20 +32,20 @@ Items with a star (★) next to them are things I highly recommend
 - calcMod
   - Little calculator to calculate things such as amount of blocks needed for recipes, etc.
 
-- carpetExtra
+- 🔔carpetExtra
   - Adds some more cool carpet features
 
-- carpetTIS
+- 🔔carpetTIS
   - More carpet additions, notably large barrels
 
-- clothConfig (library)
+- 🔔clothConfig (library)
 
-- clumps (performance)
+- 🔔clumps (performance)
   - Greatly decreases lag by clumping xp orbs together
 
 - collective (library)
 
-- continuity★
+- ★continuity
   - Adds connected textures similar to OptiFine
 
 - controlling (library)
@@ -58,17 +59,17 @@ Items with a star (★) next to them are things I highly recommend
 - eatingAnimation
   - Adds cool eating animations for most foods (sadly none for golden carrots)
 
-- essential
+- 🔔essential
   - Adds some useless cosmetics and allows hosting worlds for multiplayer with friends
 
-- fabricAPI★ (library)
+- ★🔔fabricAPI (library)
 
-- carpet★
+- ★🔔carpet
   - Adds a ton of cool technical features. A tonnnnnn
 
-- fabricLanguageKotlin (library)
+- 🔔fabricLanguageKotlin (library)
 
-- indium★ (performance)
+- ★🔔indium (performance)
   - Sodium addon that improves rendering API
 
 - inventoryHUD
@@ -77,27 +78,27 @@ Items with a star (★) next to them are things I highly recommend
 - iris
   - Best shader loader in existence
 
-- itemScroller★
+- ★itemScroller
   - Amazing mod that makes it way easier to move items around in the inventory
 
 - kleeSlabs
   - Allows just breaking the top or bottom slab in a double slab
 
-- lambDynamicLights★
+- ★lambDynamicLights
   - Adds dynamic lights. Ex: holding a torch actually gives off light
 
-- litematica★
+- ★litematica
   - Building mod to creat ghost outlines of your builds for easier building process in survival
 
-- lithium★ (performance)
+- ★🔔lithium (performance)
   - Great optimization addon for fabric. Reduces tons of lag
 
-- maLiLib★ (library)
+- ★🔔maLiLib (library)
 
-- miniHUD★
+- ★miniHUD
   - Fantastic mod that adds a little HUD that can display whatever you want it to. Also implements some useful renderers. Highly customizable
 
-- modMenu★
+- ★🔔modMenu
   - Adds a mod menu to help organize and configure mods in game
 
 - NE
@@ -106,19 +107,19 @@ Items with a star (★) next to them are things I highly recommend
 - noResourcePackWarnings
   - Removes the warning that a resource pack is from an older version
 
-- reesesSodiumOptions★
+- ★🔔reesesSodiumOptions
   - Improves the GUI of the sodium mod's options
 
 - searchables
   - Adds a search bar in the keybinds menu to help find conflicts
 
-- shulkerPlus★
+- ★🔔shulkerPlus
   - Allows you to label shulker boxes with an item. Great for organization
 
-- sodiumExtra★ (performance)
+- ★🔔sodiumExtra (performance)
   - Adds some more features to sodium
 
-- sodium★ (performance)
+- ★🔔sodium (performance)
   - The goat of performance mods
 
 - stendhal
@@ -127,13 +128,13 @@ Items with a star (★) next to them are things I highly recommend
 - tweakermore
   - Adds some more tweakeroo features. I forgot what features, but they're probably cool
 
-- tweakeroo★
+- ★tweakeroo
   - Allows for diagonal and offset block placement, orientation changes when placing, shulkerbox tooltips, freecam, and so much more. Highly customizable
 
 - voiceChat
   - Adds a simple voice chat
 
-- wiZoom★
+- ★wiZoom
   - My favorite zoom mod. It's just the zoom from the Wurst hack client (which I've never used)
 
 - yetAnotherConfigLib (library)
@@ -145,25 +146,25 @@ Items with a star (★) next to them are things I highly recommend
 <details>
 <summary>Datapack List</summary>
 
-- allMobHeads
+- 🔔allMobHeads
   - Adds mob heads and player heads
 
-- antiGriefs
+- 🔔antiGriefs
   - Stops endermen from picking up blocks and stops ghasts from breaking blocks
 
-- armoredElytra
+- 🔔armoredElytra
   - Drop an elytra and chestplate on an anvil to combine them
 
-- doubleShulkerShells★
+- ★🔔doubleShulkerShells
   - Shulkers always drop two shulker shells upon death
 
-- fastLeafDecay★
+- ★🔔fastLeafDecay
   - Makes leaves decay very quickly
 
-- vanillaTweaks
+- 🔔vanillaTweaks
   - Allows for redying of stuff, dying sandstone to red sandstone, adds a bunch of shapeless recipes, makes blackstone function the same as cobble for recipes, you can make black dye from coal and charcoal, you can smelt rotten flesh into leather, unpack ice, unpack netherwart blocks, unpack wool into string, trapdoor recipe yields 12 instead of 2, stair recipe yields 8 instead of 4, and wood recipe yields 4 instead of 3
 
-- villagerWorkstationHighlights
+- 🔔villagerWorkstationHighlights
   - Helps find which villager is assigned to which workstation
 
 </details>
@@ -180,7 +181,7 @@ Items with a star (★) next to them are things I highly recommend
 - nuthPaintings
   - I replaced all the paintings with my favorite funny images
 
-- redstoneTweaks★
+- ★redstoneTweaks
   - Extremely splendid pack that makes redstone components much easier to read and tell what direction they're facing, as well as much more
 
 - uniqueDiscs
@@ -207,7 +208,7 @@ Items with a star (★) next to them are things I highly recommend
 - shrimpDistinctPotions
   - Gives each potion a unique texture
 
-- springFlowers★
+- ★springFlowers
   - Gets some variation in the flowers
 
 - vanillaTweaks
