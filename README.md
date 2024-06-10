@@ -222,6 +222,10 @@ If you're installing any of these mods, it is recommended to install clothConfig
   - I don't remember which mods require this, so install it just to be safe
     - Client
 
+- chatHeads
+  - Displays the user's skin next to their chat message
+    - Client
+
 </details>
 
 ## **Datapack Descriptions**
