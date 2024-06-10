@@ -28,11 +28,11 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - advancementInfo
   - Tells the user what they need to do to accomplish an advancement
-  - Client
+    - Client
 
 - axiom
   - Building mod I only use in creative worlds
-  - Client or server
+    - Client or server
 
 - balm (library)
   - Required for kleeSlabs
@@ -40,34 +40,34 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - betterBeaconPlacement
   - Places down the base of the beacon by right clicking on a beacon with the mineral block in your hand. Also can break all the blocks by breaking the beacon. Huge time saver
-  - Requires collective (library)
-  - Client
+    - Requires collective (library)
+    - Client
 
 - ★betterF3
   - Improves F3 menu by color coding (highly customizable)
-  - Client
+    - Client
 
 - ★betterStats
   - Makes the statistics screen look much prettier
-  - Client or server
+    - Client or server
 
 - boatHUD
   - Adds a cool little HUD when riding a boat. Includes speed, gs experienced, and angle
-  - Client
+    - Client
 
 - calcMod
   - Little calculator to calculate things such as amount of blocks needed for recipes, etc.
-  - Client or server
+    - Client or server
 
 - 🔔carpetExtra
   - Adds some more cool carpet features
-  - Requires carpet
-  - Server
+    - Requires carpet
+    - Server
 
 - 🔔carpetTIS
   - More carpet additions, notably large barrels
-  - Requires carpet
-  - Server
+    - Requires carpet
+    - Server
 
 - ★🔔clothConfig (library)
   - Required by a lot of mods
@@ -75,7 +75,7 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★🔔clumps (performance)
   - Greatly decreases lag by clumping xp orbs together
-  - Server
+    - Server
 
 - collective (library)
   - Required by betterBeaconPlacement
@@ -83,29 +83,29 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★continuity
   - Adds connected textures similar to OptiFine
-  - Requires indium IF sodium is installed
-  - Client
+    - Requires indium IF sodium is installed
+    - Client
 
 - controlling
   - Adds a search bar in the keybinds menu to help find conflicts
-  - Requires searchables (library)
-  - Client
+    - Requires searchables (library)
+    - Client
 
 - darkLoadingScreen
   - Makes the loading screen dark mode
-  - Client
+    - Client
 
 - easierCrafting
   - Enables instant crafting without having to drag items to and fro
-  - Client
+    - Client
 
 - eatingAnimation
   - Adds cool eating animations for most foods (sadly none for golden carrots)
-  - Client
+    - Client
 
 - 🔔essential
   - Adds some useless cosmetics and allows hosting worlds for multiplayer with friends
-  - Client
+    - Client
 
 - ★🔔fabricAPI (library)
   - Required by most mods
@@ -113,8 +113,8 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★🔔carpet
   - Adds a ton of cool technical features. A tonnnnnn
-  - Required by carpet
-  - Server
+    - Required by carpetExtras and carpetTIS
+    - Server
 
 - ★🔔fabricLanguageKotlin (library)
   - Required by a lot of mods
@@ -122,37 +122,37 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★🔔indium (performance)
   - Sodium addon that improves rendering API
-  - Requires sodium
-  - Client
+    - Requires sodium
+    - Client
 
 - inventoryHUD
   - Adds some neat little HUDs. Highly customizable
-  - Client
+    - Client
 
 - ★iris
   - Best shader loader in existence
-  - Client
+    - Client
 
 - ★itemScroller
   - Amazing mod that makes it way easier to move items around in the inventory
-  - Client
+    - Client
 
 - 🔔kleeSlabs
   - Allows just breaking the top or bottom slab in a double slab
-  - Requires balm (library)
-  - Server
+    - Requires balm (library)
+    - Server
 
 - ★lambDynamicLights
   - Adds dynamic lights. Ex: holding a torch actually gives off light
-  - Client
+    - Client
 
 - ★litematica
   - Building mod to creat ghost outlines of your builds for easier building process in survival
-  - Client
+    - Client
 
 - ★🔔lithium (performance)
   - Great optimization addon for fabric. Reduces tons of lag
-  - Client
+    - Client
 
 - ★🔔maLiLib (library)
   - Required by a lot of my favorite mods
@@ -160,25 +160,25 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★miniHUD
   - Fantastic mod that adds a little HUD that can display whatever you want it to. Also implements some useful renderers. Highly customizable
-  - Client
+    - Client
 
 - ★🔔modMenu
   - Adds a mod menu to help organize and configure mods in game
-  - Required by a lot of mods
-  - Client
+    - Required by a lot of mods
+    - Client
 
 - 🔔noExpensive
   - Removes the "Too Expensive!" restriction with anvils
-  - Client and server
+    - Client and server
 
 - ★noResourcePackWarnings
   - Removes the warning that a resource pack is from an older version
-  - Client
+    - Client
 
 - ★🔔reesesSodiumOptions
   - Improves the GUI of the sodium mod's options
-  - Requires sodium
-  - Client
+    - Requires sodium
+    - Client
 
 - searchables (library)
   - Required by controlling
@@ -186,41 +186,41 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★🔔shulkerPlus
   - Allows you to label shulker boxes with an item. Great for organization
-  - Client and server
+    - Client and server
 
 - ★🔔sodiumExtra (performance)
   - Adds some more features to sodium
-  - Requires sodium
+    - Requires sodium
 
 - ★🔔sodium (performance)
   - The goat of performance mods
-  - Required by indium and sodiumExtra and reesesSodiumOptions
-  - Client
+    - Required by indium and sodiumExtra and reesesSodiumOptions
+    - Client
 
 - ★stendhal
   - Adds the whole unicode library in the game GUI, allowing for symbols in signs, chat, etc.
-  - Client
+    - Client
 
 - tweakermore
   - Adds some more tweakeroo features. I forgot what features, but they're probably cool
-  - Client
+    - Client
 
 - ★tweakeroo
   - Allows for diagonal and offset block placement, orientation changes when placing, shulkerbox tooltips, freecam, and so much more. Highly customizable
   - IMPORTANT: some features can get you banned on some servers (ex: clicking scripts, freecam). Check with your server admin
-  - Client for some features, client and server for others (see previous bullet point)
+    - Client for some features, client and server for others (see previous bullet point)
 
 - 🔔voiceChat
   - Adds a simple voice chat
-  - Client and server
+    - Client and server
 
 - ★wiZoom
   - My favorite zoom mod. It's just the zoom from the Wurst hack client (which I've never used)
-  - Client
+    - Client
 
 - yetAnotherConfigLib (library)
   - I don't remember which mods require this, so install it just to be safe
-  - Client
+    - Client
 
 </details>
 
