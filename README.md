@@ -250,6 +250,7 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - 🔔vanillaTweaks
   - Allows for redying of stuff, dying sandstone to red sandstone, adds a bunch of shapeless recipes, makes blackstone function the same as cobble for recipes, you can make black dye from coal and charcoal, you can smelt rotten flesh into leather, unpack ice, unpack netherwart blocks, unpack wool into string, trapdoor recipe yields 12 instead of 2, stair recipe yields 8 instead of 4, and wood recipe yields 4 instead of 3
+  - Go select your own at [[https://vanillatweaks.net/picker/datapacks/]]
 
 - 🔔villagerWorkstationHighlights
   - Helps find which villager is assigned to which workstation
@@ -292,16 +293,14 @@ If you're installing any of these mods, it is recommended to install clothConfig
 - rainRevamp
   - Makes rain so much nicer and atmospheric
 
-- shrimpDistinctPotions
-  - Gives each potion a unique texture
-
 - ★springFlowers
   - Gets some variation in the flowers
 
-- vanillaTweaks
-  - fixes bucket inconsistencies, item stitching, fixes dripleaf, makes leaves look nicer on fast graphics, removes fogs, fixes blaze textures, fixes decorated pot texture, gives axolotls a cute lil smile, adds a dark mode UI, fixes gamerule names to be the same as in the source code, makes wither hearts actually discernable, color indicates ping, makes particles less obtrusive, cleans up glass textures, cleans up scaffold texture, lowers the shield texture to see better when holding, removes the pumpkin effect when wearing a carved pumpkin, makes fire a shorter texture, indicates suspicious sand/gravel with an outline and infested blocks with a caution tape outline, gives banner patterns unique texture as an item, makes age25 kelp have flowers on it, makes sapling age2 taller, quiets villagers and nether portals, allows for different skin tones in villagers, shortens grass textures, wraps around grass, path, mycelium, and snow blocks, makes the savanna colors golden, makes log texture a little rounded, makes water clearer and easier to see through, gives iron golems some flower patterns on them, makes the xp bottle a splash potion texture, makes a golden helmet look like a crown, gives every dye a unique texture, makes shield banners HD, makes arrow tips colored like flint, makes moss carpets overhang, animates campfire item, adds variation in bookshelves, connects bookshelves, makes the spyglass useless, and makes the nether brighter
+- ★vanillaTweaks
+  - See the .txt file for a list of all selected packs
+  - Select your personal packs at [[https://vanillatweaks.net/picker/resource-packs/]]
  
 - timeToShweep
-  - Changes phantoms voice to be Bdubs saying "Time to shweep!"
+  - Changes phantoms' voices to be Bdubs saying "Time to shweep!"
 
 </details>
