@@ -250,7 +250,7 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - 🔔vanillaTweaks
   - Allows for redying of stuff, dying sandstone to red sandstone, adds a bunch of shapeless recipes, makes blackstone function the same as cobble for recipes, you can make black dye from coal and charcoal, you can smelt rotten flesh into leather, unpack ice, unpack netherwart blocks, unpack wool into string, trapdoor recipe yields 12 instead of 2, stair recipe yields 8 instead of 4, and wood recipe yields 4 instead of 3
-  - Go select your own at [[https://vanillatweaks.net/picker/datapacks/]]
+  - Go select your own at [https://vanillatweaks.net/picker/datapacks/](the vanilla tweaks website)
 
 - 🔔villagerWorkstationHighlights
   - Helps find which villager is assigned to which workstation
@@ -298,7 +298,7 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★vanillaTweaks
   - See the .txt file for a list of all selected packs
-  - Select your personal packs at [[https://vanillatweaks.net/picker/resource-packs/]]
+  - Select your personal packs at [https://vanillatweaks.net/picker/resource-packs/](the vanilla tweaks website)
  
 - timeToShweep
   - Changes phantoms' voices to be Bdubs saying "Time to shweep!"
