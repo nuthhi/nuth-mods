@@ -74,6 +74,10 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 
 If you're installing any of these mods, it is recommended to install clothConfig, fabricAPI, fabricLanguageKotlin, maLiLib, modMenu, and yetAnotherConfigLib. These are required by most of these mods and aren't listed as dependencies.
 
+## [Modrinth Collection](<https://modrinth.com/collection/Da5NsVQ4>)
+
+## [CurseForge Collection](<https://legacy.curseforge.com/members/nuth_an/favorites>)
+
 
 - [advancementInfo](<https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
   - Tells the user what they need to do to accomplish an advancement
@@ -125,6 +129,10 @@ If you're installing any of these mods, it is recommended to install clothConfig
   - Adds a little image of the users skin next to chat messages
     - Client
 
+- [citResewn (library)](<https://modrinth.com/mod/cit-resewn/versions>)
+  - Required by a resource pack
+  - Client
+
 - ★🔔[clothConfig (library)](<https://modrinth.com/mod/cloth-config/versions?l=fabric>)
   - Required by a lot of mods
   - Client and server
@@ -159,6 +167,10 @@ If you're installing any of these mods, it is recommended to install clothConfig
   - Adds cool eating animations for most foods (sadly none for golden carrots)
     - Client
 
+- ★[enhancedBlockEntities](<https://modrinth.com/mod/ebe/versions?l=fabric>)
+  - Reduces a ton of lag by reducing block entity lag. Godsend
+    - Client
+
 - 🔔[essential](<https://modrinth.com/mod/essential/versions?l=fabric>)
   - Adds some useless cosmetics and allows hosting worlds for multiplayer with friends
     - Client
@@ -178,6 +190,10 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★[heyWiki](<https://modrinth.com/mod/hey-wiki/versions?l=fabric>)
   - Links you the wiki page to what you need with a simple command
+    - Client
+
+- [immediatelyFast](<https://modrinth.com/mod/immediatelyfast/versions?l=fabric>)
+  - Optimizes immediate mode rendering (performance)
     - Client
 
 - ★🔔[indium (performance)](<https://www.curseforge.com/minecraft/mc-mods/indium/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
@@ -222,9 +238,17 @@ If you're installing any of these mods, it is recommended to install clothConfig
   - Fantastic mod that adds a little HUD that can display whatever you want it to. Also implements some useful renderers. Highly customizable
     - Client
 
+- [modernFix](<https://modrinth.com/mod/modernfix/versions?l=fabric>)
+  - Performance mod
+    - Client or server
+
 - ★🔔[modMenu](<https://modrinth.com/mod/modmenu/versions?l=fabric>)
   - Adds a mod menu to help organize and configure mods in game
     - Required by a lot of mods
+    - Client
+
+- [moreCulling](<https://modrinth.com/mod/moreculling/versions?l=fabric>)
+  - Adds more culling to the game (stops rendering things when you're not looking at them)
     - Client
 
 - 🔔[noExpensive](<https://modrinth.com/mod/noexpensive/versions>)
@@ -282,8 +306,8 @@ If you're installing any of these mods, it is recommended to install clothConfig
   - My favorite zoom mod. It's just the zoom from the Wurst hack client (which I've never used)
     - Client
 
-- [yetAnotherConfigLib (library)](<https://www.curseforge.com/minecraft/mc-mods/yacl/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - I don't remember which mods require this, so install it just to be safe
+- [yeetusExperimentus](<https://modrinth.com/mod/yeetus-experimentus/versions?l=fabric>)
+  - Removes the experimental settings popup (performance enhancer)
     - Client
 
 </details>
@@ -329,9 +353,6 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★[redstoneTweaks](<https://modrinth.com/resourcepack/redstone-tweaks/versions>)
   - Extremely splendid pack that makes redstone components much easier to read and tell what direction they're facing, as well as much more
-
-- uniqueDiscs
-  - Gives each music disc a unique texture
 
 - betterEggs
   - Recolors eggs and turtle eggs
