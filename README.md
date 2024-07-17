@@ -4,7 +4,7 @@
 
 <details><summary>About/Explanation</summary>
 
-# For the clueless
+### For the clueless
 
 Client side means they will work on vanilla (unmodded) servers and are specific to your computer.
 
@@ -20,13 +20,48 @@ Items with a star (★) next to them are things I highly recommend
 
 Items with a bell (🔔) next to them are things I use on nuthSMP
 
-# Miscellaneous 
+### Miscellaneous 
 
 **Shaderpacks** are shaderpacks. I use only one really. Loaded with Iris mod
 
 **Options** is my options I use
 
 **Schematics** are my commonly used schematics for the Litematica mod
+
+</details>
+
+<details><summary>Websites/Helpful links</summary>
+
+- [seedMap](<https://www.chunkbase.com/apps/seed-map>)
+  - Enter the seed and version and locate map features and points of interest in your world
+
+- [bannerDesign](<https://www.gamergeeks.net/apps/minecraft/banner-maker>)
+  - Test banner designs and figure out how to make them
+
+- [fireworkDesign](<https://minecraft.tools/en/firework.php>)
+  - Test firework designs and figure out how to make them
+
+- [modelTemplates](<https://www.plotz.co.uk/>)
+  - Generate custom spheres, ellipsoids, ellipses and more
+
+- [enchantOrder](<https://iamcal.github.io/enchant-order/>)
+  - Find the optimal enchantment order for your tools for levels or work order cost reduction
+
+- [trimDesign](<https://armortrims.com/>)
+  - Test trim designs and figure out how/where to make/find them
+
+- [vanillaTweaks](<https://vanillatweaks.net/>)
+  - Resourcepacks and datapacks
+
+- [skinEditor](<https://www.minecraftskins.com/skin-editor/>)
+  - Edit skins or make your own
+
+- [wiki](<https://minecraft.wiki/>)
+  - Minecraft Wiki
+
+![villager trades cheat sheet](/misc/villagerTrades.png)
+
+![piglin bartering cheat sheet](/misc/barter.png)
 
 </details>
 
