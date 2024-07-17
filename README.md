@@ -26,11 +26,11 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 If you're installing any of these mods, it is recommended to install clothConfig, fabricAPI, fabricLanguageKotlin, maLiLib, modMenu, and yetAnotherConfigLib. These are required by most of these mods and aren't listed as dependencies.
 
 
-- advancementInfo
+- [advancementInfo](<https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
   - Tells the user what they need to do to accomplish an advancement
     - Client
 
-- axiom
+- [axiom](<https://modrinth.com/mod/axiom/versions>)
   - Building mod I only use in creative worlds
     - Client or server
 
