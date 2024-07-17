@@ -63,6 +63,9 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 
 ![piglin bartering cheat sheet](/misc/barter.png)
 
+![potion brewing cheat sheet](/misc/brewing.png)
+![potion brewing cheat sheet part two](/misc/brewing2.png)
+
 </details>
 
 ## **Mod Descriptions**
