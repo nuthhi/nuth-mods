@@ -155,10 +155,6 @@ If you're installing any of these mods, it is recommended to install clothConfig
     - Requires searchables (library)
     - Client
 
-- [darkLoadingScreen](<https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Makes the loading screen dark mode
-    - Client
-
 - [easierCrafting](<https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
   - Enables instant crafting without having to drag items to and fro
     - Client
