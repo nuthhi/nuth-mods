@@ -4,6 +4,7 @@
 
 <details><summary>About/Explanation</summary>
 
+# For the clueless
 
 Client side means they will work on vanilla (unmodded) servers and are specific to your computer.
 
@@ -18,6 +19,14 @@ Server side means they have to be installed on the server and the client to func
 Items with a star (★) next to them are things I highly recommend
 
 Items with a bell (🔔) next to them are things I use on nuthSMP
+
+# Miscellaneous 
+
+**Shaderpacks** are shaderpacks. I use only one really. Loaded with Iris mod
+
+**Options** is my options I use
+
+**Schematics** are my commonly used schematics for the Litematica mod
 
 </details>
 
