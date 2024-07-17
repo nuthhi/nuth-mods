@@ -1,6 +1,9 @@
 # nuth-mods
 
-### Nuth_AN's collection of minecraft mods, resourcepacks, and datapacks
+### Nuth_AN's collection of Minecraft mods, resourcepacks, datapacks, and other tools/resources
+
+<details><summary>About/Explanation</summary>
+
 
 Client side means they will work on vanilla (unmodded) servers and are specific to your computer.
 
@@ -15,6 +18,8 @@ Server side means they have to be installed on the server and the client to func
 Items with a star (★) next to them are things I highly recommend
 
 Items with a bell (🔔) next to them are things I use on nuthSMP
+
+</details>
 
 ## **Mod Descriptions**
 
