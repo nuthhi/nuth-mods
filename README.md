@@ -1,6 +1,6 @@
 # nuth-mods
 
-### Nuth_AN's collection of Minecraft mods, resourcepacks, datapacks, and other tools/resources
+### Nuth_AN's collection of Minecraft tools/resources
 
 <details><summary>About/Explanation</summary>
 
