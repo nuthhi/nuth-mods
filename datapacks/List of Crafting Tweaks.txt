@@ -1,0 +1,15 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.21
+Packs:
+	unpackable ice
+	unpackable nether wart
+	unpackable wool
+	more trapdoors
+	more bark
+	more stairs
+	universal dyeing
+	straight to shapeless
+	powder to glass
+	rotten flesh to leather
+	dropper to dispenser
+	sandstone dyeing

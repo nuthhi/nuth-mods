@@ -14,14 +14,6 @@ Server side means they have to be installed on the server and the client to func
 
 **Resourcepacks** are alternative textures applied to objects in the game. These are all client side, so only you will see these changes, and they will work on other servers. File path: .minecraft\resourcepacks
 
-**Datapacks** are only server side and are world specific. File path:.minecraft\saves\worldname\datapacks
-
-Items with a star (★) next to them are things I highly recommend
-
-Items with a bell (🔔) next to them are things I use on nuthSMP
-
-### Miscellaneous 
-
 **Shaderpacks** are shaderpacks. I use only one really. Loaded with Iris mod
 
 **Options** is my options I use
@@ -32,7 +24,7 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 
 <details><summary>Websites/Helpful links</summary>
 
-- [seedMap](<https://www.chunkbase.com/apps/seed-map>)
+- ★[seedMap](<https://www.chunkbase.com/apps/seed-map>)
   - Enter the seed and version and locate map features and points of interest in your world
 
 - [bannerDesign](<https://www.gamergeeks.net/apps/minecraft/banner-maker>)
@@ -44,13 +36,13 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 - [modelTemplates](<https://www.plotz.co.uk/>)
   - Generate custom spheres, ellipsoids, ellipses and more
 
-- [enchantOrder](<https://iamcal.github.io/enchant-order/>)
+- ★[enchantOrder](<https://iamcal.github.io/enchant-order/>)
   - Find the optimal enchantment order for your tools for levels or work order cost reduction
 
 - [trimDesign](<https://armortrims.com/>)
   - Test trim designs and figure out how/where to make/find them
 
-- [vanillaTweaks](<https://vanillatweaks.net/>)
+- ★[vanillaTweaks](<https://vanillatweaks.net/>)
   - Resourcepacks and datapacks
 
 - [skinEditor](<https://www.minecraftskins.com/skin-editor/>)
@@ -68,6 +60,8 @@ Items with a bell (🔔) next to them are things I use on nuthSMP
 
 </details>
 
+Items with a star (★) next to them are things I highly recommend
+
 ## **Mod Descriptions**
 
 <details>
@@ -82,259 +76,193 @@ If you're installing any of these mods, it is recommended to install clothConfig
 ## [CurseForge Collection](<https://legacy.curseforge.com/members/nuth_an/favorites>)
 
 
-- [advancementInfo](<https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+- [advancementInfoReloaded](<https://modrinth.com/mod/advancements-reloaded/versions>)
   - Tells the user what they need to do to accomplish an advancement
-    - Client
 
 - [architectury (library)](<https://modrinth.com/mod/architectury-api/versions?l=fabric>)
-  - Required for heyWiki
 
 - [axiom](<https://modrinth.com/mod/axiom/versions>)
-  - Building mod for creative building
-    - Client or server
+  - Creative building mod
 
 - [balm (library)](<https://modrinth.com/mod/balm/versions?l=fabric>)
-  - Required for kleeSlabs
-  - Client and server
 
-- [betterBeaconPlacement](<https://www.curseforge.com/minecraft/mc-mods/better-beacon-placement/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Places down the base of the beacon by right clicking on a beacon with the mineral block in your hand. Also can break all the blocks by breaking the beacon. Huge time saver, but pretty cheaty
-    - Requires collective (library)
-    - Client
+- [betterAdvancements](<https://modrinth.com/mod/better-advancements/versions?l=fabric>)
+  - Cleans up advancement menu
 
-- ★[betterF3](<https://www.curseforge.com/minecraft/mc-mods/betterf3/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Improves F3 menu by color coding (highly customizable)
-    - Client
+- [betterBeaconPlacement](<https://modrinth.com/mod/better-beacon-placement/versions?l=fabric>)
+  - Places a maxed beacon with blocks for you
 
-- ★[betterStats](<https://www.curseforge.com/minecraft/mc-mods/better-stats/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Makes the statistics screen look much prettier
-    - Client or server
+- ★[betterClouds](<https://modrinth.com/mod/better-clouds/versions>)
+  - Beautiful vanilla friendly clouds
 
-- [boatHUD](<https://www.curseforge.com/minecraft/mc-mods/boathud/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Adds a cool little HUD when riding a boat. Includes speed, gs experienced, and angle
-    - Client
+- ★[betterF3](<https://modrinth.com/mod/betterf3/versions?l=fabric>)
+  - Customizable debug menu
+
+- [betterMountHUD](<https://modrinth.com/mod/better-mount-hud/versions>)
+  - Experience bar and hunger visible on mounts
+
+- ★[betterStats](<https://modrinth.com/mod/better-stats/versions?l=fabric>)
+  - Vastly improved stats screen
 
 - [calcMod](<https://modrinth.com/mod/calcmod/versions?l=fabric>)
-  - Little calculator to calculate things such as amount of blocks needed for recipes, nether coords, etc.
-    - Client or server
+  - Useful calculator with chat commands
 
-- 🔔[carpetExtra](<https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+- [carpetExtra](<https://modrinth.com/mod/carpet-extra/versions>)
   - Adds some more cool carpet features
-    - Requires carpet
-    - Server
 
-- 🔔[carpetTIS](<https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition/files/all?page=1&pageSize=20>)
+- [carpetTIS](<https://modrinth.com/mod/carpet-tis-addition/versions>)
   - More carpet additions, notably large barrels
-    - Requires carpet
-    - Server
+
+- [catJam](<https://modrinth.com/mod/cat_jam/versions?l=fabric>)
+  - Cats bop heads to music discs
 
 - [chatHeads](<https://modrinth.com/mod/chat-heads/versions?l=fabric>)
   - Adds a little image of the users skin next to chat messages
-    - Client
 
 - [citResewn (library)](<https://modrinth.com/mod/cit-resewn/versions>)
-  - Required by a resource pack
-  - Client
 
-- ★🔔[clothConfig (library)](<https://modrinth.com/mod/cloth-config/versions?l=fabric>)
-  - Required by a lot of mods
-  - Client and server
+- ★[clothConfig (library)](<https://modrinth.com/mod/cloth-config/versions?l=fabric>)
 
-- ★🔔[clumps (performance)](<https://www.curseforge.com/minecraft/mc-mods/clumps/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+- ★[clumps (performance)](<https://modrinth.com/mod/clumps/versions?l=fabric>)
   - Greatly decreases lag by clumping xp orbs together
-    - Server
 
-- [collective (library)](<https://www.curseforge.com/minecraft/mc-mods/collective/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Required by betterBeaconPlacement
-  - Client and server
+- [collective (library)](<https://modrinth.com/mod/collective/versions?l=fabric>)
 
-- ★[continuity](<https://www.curseforge.com/minecraft/mc-mods/continuity/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Adds connected textures similar to OptiFine
-    - Requires indium IF sodium is installed
-    - Client
+- ★[continuity](<https://modrinth.com/mod/continuity/versions?l=fabric>)
+  - Adds connected textures
 
 - [controlling](<https://modrinth.com/mod/controlling/versions?l=fabric>)
-  - Adds a search bar in the keybinds menu to help find conflicts
-    - Requires searchables (library)
-    - Client
+  - Adds a search bar in the keybinds menu
 
-- [easierCrafting](<https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Enables instant crafting without having to drag items to and fro
-    - Client
+- [cyclePaintings](<https://modrinth.com/mod/cycle-paintings/versions?l=fabric>)
+  - Cycle paintings easily
 
-- [eatingAnimation](<https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Adds cool eating animations for most foods (sadly none for golden carrots)
-    - Client
+- [dataAPI (library)](<https://modrinth.com/datapack/developer-resources/versions?l=fabric>)
+
+- [eatingAnimation](<https://modrinth.com/mod/eating-animation/versions>)
+  - Adds cool eating animations for most foods (golden carrots sometimes works?)
+
+- ★[elytraTrims](<https://modrinth.com/mod/elytra-trims/versions?l=fabric>)
+  - Add trims to elytra
 
 - ★[enhancedBlockEntities](<https://modrinth.com/mod/ebe/versions?l=fabric>)
-  - Reduces a ton of lag by reducing block entity lag. Godsend
-    - Client
+  - Optimizes block entity models
 
-- 🔔[essential](<https://modrinth.com/mod/essential/versions?l=fabric>)
-  - Adds some useless cosmetics and allows hosting worlds for multiplayer with friends
-    - Client
 
-- ★🔔[fabricAPI (library)](<https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Required by most mods
-  - Client and server
+- [essential](<https://modrinth.com/mod/essential/versions?l=fabric>)
+  - Free and easy join world feature
 
-- ★🔔[carpet](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Adds a ton of cool technical features. A tonnnnnn
-    - Required by carpetExtras and carpetTIS
-    - Server
+- ★[fabricAPI (library)](<https://modrinth.com/mod/fabric-api/versions>)
 
-- ★🔔[fabricLanguageKotlin (library)](<https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Required by a lot of mods
-  - Client or server
+- ★[carpet](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+  - Adds a ton of cool technical features
 
-- ★[heyWiki](<https://modrinth.com/mod/hey-wiki/versions?l=fabric>)
-  - Links you the wiki page to what you need with a simple command
-    - Client
+- ★[fabricLanguageKotlin (library)](<https://modrinth.com/mod/fabric-language-kotlin/versions>)
 
-- [immediatelyFast](<https://modrinth.com/mod/immediatelyfast/versions?l=fabric>)
-  - Optimizes immediate mode rendering (performance)
-    - Client
+- [ferriteCore (performance)](<https://modrinth.com/mod/ferrite-core/versions?l=fabric>)
 
-- ★🔔[indium (performance)](<https://www.curseforge.com/minecraft/mc-mods/indium/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Sodium addon that improves rendering API
-    - Requires sodium
-    - Client
+- [heyWiki](<https://modrinth.com/mod/hey-wiki/versions?l=fabric>)
+  - Wiki search in game
 
-- [inventoryHUD](<https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Adds some neat little HUDs. Highly customizable
-    - Client
+- [immediatelyFast (performance)](<https://modrinth.com/mod/immediatelyfast/versions?l=fabric>)
 
-- ★[iris](<https://www.curseforge.com/minecraft/mc-mods/irisshaders/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+- ★[indium (performance)](<https://modrinth.com/mod/indium/versions?l=fabric>)
+
+- ★[iris](<https://modrinth.com/mod/iris/versions?l=fabric>)
   - Best shader loader in existence
-    - Client
 
-- ★[itemScroller](<https://www.curseforge.com/minecraft/mc-mods/item-scroller/files/all?page=1&pageSize=20>)
+- ★[itemScroller](<https://github.com/sakura-ryoko/itemscroller/releases>)
   - Amazing mod that makes it way easier to move items around in the inventory
-    - Client
 
-- 🔔[kleeSlabs](<https://modrinth.com/mod/kleeslabs/versions?l=fabric>)
+- [kleeSlabs](<https://modrinth.com/mod/kleeslabs/versions?l=fabric>)
   - Allows just breaking the top or bottom slab in a double slab
-    - Requires balm (library)
-    - Server
 
-- ★[lambDynamicLights](<https://modrinth.com/mod/lambdynamiclights/versions?l=fabric>)
-  - Adds dynamic lights. Ex: holding a torch actually gives off light
-    - Client
+- [konkrete (library)](<https://modrinth.com/mod/konkrete/versions?l=fabric>)
 
-- ★[litematica](<https://www.curseforge.com/minecraft/mc-mods/litematica/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Building mod to creat ghost outlines of your builds for easier building process in survival
-    - Client
+- [libJF (library)](<https://modrinth.com/mod/libjf/versions>)
 
-- ★🔔[lithium (performance)](<https://modrinth.com/mod/lithium/versions?l=fabric>)
-  - Great optimization addon for fabric. Reduces tons of lag
-    - Client
+- ★[litematica](<https://github.com/sakura-ryoko/litematica/releases>)
+  - Building mod to create ghost outlines of your builds for easier building process in survival
 
-- ★🔔[maLiLib (library)](<https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Required by a lot of my favorite mods
-  - Client
+- ★[lithium (performance)](<https://modrinth.com/mod/lithium/versions?l=fabric>)
 
-- ★[miniHUD](<https://www.curseforge.com/minecraft/mc-mods/minihud/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Fantastic mod that adds a little HUD that can display whatever you want it to. Also implements some useful renderers. Highly customizable
-    - Client
+- ★[maLiLib (library)](<https://github.com/sakura-ryoko/malilib/releases>)
 
-- [modernFix](<https://modrinth.com/mod/modernfix/versions?l=fabric>)
-  - Performance mod
-    - Client or server
+- [melody (library)](<https://modrinth.com/mod/melody/versions?l=fabric>)
 
-- ★🔔[modMenu](<https://modrinth.com/mod/modmenu/versions?l=fabric>)
+- ★[miniHUD](<https://github.com/sakura-ryoko/minihud/releases>)
+  - Custom miniHUD with valuable info lines
+
+- [modelFix](<https://modrinth.com/mod/modelfix/versions?l=fabric>)
+  - Fixes some item and block model gaps
+
+- [modernFix (performance)](<https://modrinth.com/mod/modernfix/versions?l=fabric>)
+
+- ★[modMenu](<https://modrinth.com/mod/modmenu/versions?l=fabric>)
   - Adds a mod menu to help organize and configure mods in game
-    - Required by a lot of mods
-    - Client
 
-- [moreCulling](<https://modrinth.com/mod/moreculling/versions?l=fabric>)
-  - Adds more culling to the game (stops rendering things when you're not looking at them)
-    - Client
+- [moreCulling (performance)](<https://modrinth.com/mod/moreculling/versions?l=fabric>)
 
-- 🔔[noExpensive](<https://modrinth.com/mod/noexpensive/versions>)
+- [nbtAutoComplete](<https://modrinth.com/mod/nbt-autocomplete/versions?l=fabric>)
+  - Adds suggestions for NBT tags in commands
+
+- [noExpensive](<https://modrinth.com/mod/noexpensive/versions>)
   - Removes the "Too Expensive!" restriction with anvils
-    - Client and server
+
+- [netherPortalFix](<https://modrinth.com/mod/netherportalfix/versions?l=fabric>)
+  - Fixes some wacky behavior with nether portals
 
 - ★[noResourcePackWarnings](<https://modrinth.com/mod/no-resource-pack-warnings/versions>)
   - Removes the warning that a resource pack is from an older version
-    - Client
 
-- ★🔔[reesesSodiumOptions](<https://modrinth.com/mod/reeses-sodium-options/versions?l=fabric>)
+- ★[noTelemetry](<https://modrinth.com/mod/no-telemetry/versions?l=fabric>)
+  - Stops Microsoft from datamining your Minecraft
+
+- [obsidianUI (library)](<https://modrinth.com/mod/obsidianui/versions?l=fabric>)
+
+- [placeholderAPI (library)](<https://modrinth.com/mod/placeholder-api/versions?l=fabric>)
+
+- ★[reesesSodiumOptions](<https://modrinth.com/mod/reeses-sodium-options/versions?l=fabric>)
   - Improves the GUI of the sodium mod's options
-    - Requires sodium
-    - Client
+
+- [resourcePackOpts](<https://modrinth.com/mod/respackopts/versions>)
+  - Configure resource packs
+
+- ★[ryoamicLights](<https://modrinth.com/mod/ryoamiclights/versions?l=fabric>)
+  - Dynamic lights
 
 - [searchables (library)](<https://modrinth.com/mod/searchables/versions?l=fabric>)
-  - Required by controlling
-  - Client
 
-- ★🔔[shulkerPlus](<https://www.curseforge.com/minecraft/mc-mods/shulker/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Allows you to label shulker boxes with an item. Great for organization
-    - Client and server
+- [skinRestorer](<https://modrinth.com/mod/skinrestorer/versions?l=fabric>)
+  - Use your skin even in offline mode
 
-- ★🔔[sodiumExtra (performance)](https://modrinth.com/mod/sodium-extra/versions?l=fabric>)
-  - Adds some more features to sodium
-    - Requires sodium
+- ★[sodiumExtra (performance)](https://modrinth.com/mod/sodium-extra/versions?l=fabric>)
 
-- ★🔔[sodium (performance)](<https://modrinth.com/mod/sodium/versions?l=fabric>)
+- ★[sodium (performance)](<https://modrinth.com/mod/sodium/versions?l=fabric>)
   - The goat of performance mods
-    - Required by indium and sodiumExtra and reesesSodiumOptions
-    - Client
 
-- ★[stendhal](<https://www.curseforge.com/minecraft/mc-mods/stendhal/files/all?page=1&pageSize=20>)
+- ★[stendhal](<https://modrinth.com/mod/stendhal/versions>)
   - Adds the whole unicode library in the game GUI, allowing for symbols in signs, chat, etc.
-    - Client
 
-- [tweakermore](<https://www.curseforge.com/minecraft/mc-mods/tweakermore/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - Adds some more tweakeroo features. I forgot what features, but they're probably cool
-    - Client
+- [TCDCommonsAPI (library)](<https://modrinth.com/mod/tcdcommons/versions?l=fabric>)
 
-- ★[tweakeroo](<https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/all?page=1&pageSize=20>)
-  - Allows for diagonal and offset block placement, orientation changes when placing, shulkerbox tooltips, freecam, and so much more. Highly customizable
-  - IMPORTANT: some features can get you banned on some servers (ex: clicking scripts, freecam). Check with your server admin
-    - Client for some features, client and server for others (see previous bullet point)
+- [tweakermore](<https://modrinth.com/mod/tweakermore/versions>)
+  - Adds some more tweakeroo features
 
-- [visuality](<https://www.curseforge.com/minecraft/mc-mods/visuality>)
+- ★[tweakeroo](<https://github.com/sakura-ryoko/tweakeroo/releases>)
+  - Crazy all-in-one technical mod
+
+- [visuality](<https://modrinth.com/mod/visuality/versions?l=fabric>)
   - Adds some aesthetic particles
-    - Client
 
-- 🔔[voiceChat](<https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric>)
+- [voiceChat](<https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric>)
   - Adds a simple voice chat
-    - Client and server
 
-- ★[wiZoom](<https://www.curseforge.com/minecraft/mc-mods/wi-zoom/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
-  - My favorite zoom mod. It's just the zoom from the Wurst hack client (which I've never used)
-    - Client
+- ★[wiZoom](<https://modrinth.com/mod/wi-zoom/versions?l=fabric>)
+  - My favorite zoom mod ever
 
 - [yeetusExperimentus](<https://modrinth.com/mod/yeetus-experimentus/versions?l=fabric>)
   - Removes the experimental settings popup (performance enhancer)
-    - Client
-
-</details>
-
-## **Datapack Descriptions**
-
-<details>
-<summary>Datapack List</summary>
-
-- 🔔allMobHeads
-  - Adds mob heads and player heads
-
-- ★🔔antiGriefs
-  - Stops endermen from picking up blocks and stops ghasts from breaking blocks
-
-- 🔔armoredElytra
-  - Drop an elytra and chestplate on an anvil to combine them
-
-- ★🔔doubleShulkerShells
-  - Shulkers always drop two shulker shells upon death
-
-- ★🔔fastLeafDecay
-  - Makes leaves decay very quickly
-
-- 🔔[vanillaTweaks](<https://vanillatweaks.net/picker/datapacks/>)
-  - Allows for redying of stuff, dying sandstone to red sandstone, adds a bunch of shapeless recipes, makes blackstone function the same as cobble for recipes, you can make black dye from coal and charcoal, you can smelt rotten flesh into leather, unpack ice, unpack netherwart blocks, unpack wool into string, trapdoor recipe yields 12 instead of 2, stair recipe yields 8 instead of 4, and wood recipe yields 4 instead of 3
-  - Go select your own at the vanilla tweaks website
-
 
 </details>
 
@@ -352,6 +280,8 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★[redstoneTweaks](<https://modrinth.com/resourcepack/redstone-tweaks/versions>)
   - Extremely splendid pack that makes redstone components much easier to read and tell what direction they're facing, as well as much more
+
+- darkGUI
 
 - betterEggs
   - Recolors eggs and turtle eggs
@@ -376,9 +306,11 @@ If you're installing any of these mods, it is recommended to install clothConfig
 
 - ★[vanillaTweaks](<https://vanillatweaks.net/picker/resource-packs/>)
   - See the .txt file for a list of all selected packs
-  - Select your personal packs at the vanilla tweaks website
  
 - timeToShweep
   - Changes phantoms' voices to be Bdubs saying "Time to shweep!"
+
+- simpleGrassFlowers
+  - Adds little details and variations to grass, podzol, mycelium, and nylium
 
 </details>
