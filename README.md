@@ -66,11 +66,11 @@
 <summary>Mod List</summary>
 
 
-### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
+#### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
 
-### [masady Mods updated by sakura-ryoko](<https://github.com/sakura-ryoko>)
+#### [masady Mods updated by sakura-ryoko](<https://github.com/sakura-ryoko>)
 
-### [Carpet Mod](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>
+#### [Carpet Mod](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
 
 
 - [advancementInfoReloaded](<https://modrinth.com/mod/advancements-reloaded/versions>)
