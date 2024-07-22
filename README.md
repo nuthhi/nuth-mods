@@ -2,6 +2,8 @@
 
 ### Nuth_AN's collection of Minecraft tools and resources
 
+#### Items with a star (★) next to them are things I highly recommend
+
 <details><summary>About/Explanation</summary>
 
 ### For the clueless
@@ -58,10 +60,8 @@
 
 </details>
 
-#### Items with a star (★) next to them are things I highly recommend
-
 <details>
-<summary># Mods</summary>
+<summary>Mods</summary>
 
 
 #### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
@@ -263,7 +263,7 @@
 
 <details>
 
-<summary>## Resourcepacks</summary>
+<summary>Resourcepacks</summary>
 
 - cowTotem
   - A little texture I made that turns the totem of undying into a cute little cow
