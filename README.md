@@ -1,24 +1,22 @@
 # nuth-mods
 
-### Nuth_AN's collection of Minecraft tools/resources
+### Nuth_AN's collection of Minecraft tools and resources
 
 <details><summary>About/Explanation</summary>
 
 ### For the clueless
 
-Client side means they will work on vanilla (unmodded) servers and are specific to your computer.
+**Mods** are modifications, these are all using the Fabric mod loader. File path: .minecraft\mods
 
-Server side means they have to be installed on the server and the client to function.
-
-**Mods** are modifications, these are all using the Fabric mod loader. Mods can be client OR server side. Each one will specify. File path: .minecraft\mods
-
-**Resourcepacks** are alternative textures applied to objects in the game. These are all client side, so only you will see these changes, and they will work on other servers. File path: .minecraft\resourcepacks
+**Resourcepacks** are alternative textures applied to objects in the game. These are all client side, so only you will see these changes, and they will work on other servers. Filepath: .minecraft\resourcepacks
 
 **Shaderpacks** are shaderpacks. I use only one really. Loaded with Iris mod
 
-**Options** is my options I use
+**Options** is my options I use. Filepath: .minecraft\
 
-**Schematics** are my commonly used schematics for the Litematica mod
+**Schematics** are my commonly used schematics for the Litematica mod. Filepath: .minecraft\
+
+**miniHUD and tweakeroo .json** are my configurations for miniHUD and tweakeroo. Good place to start if you're lost. .minecraft\config\
 
 </details>
 
@@ -60,7 +58,7 @@ Server side means they have to be installed on the server and the client to func
 
 </details>
 
-### Items with a star (★) next to them are things I highly recommend
+#### Items with a star (★) next to them are things I highly recommend
 
 ## **Mod Descriptions**
 
