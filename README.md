@@ -60,20 +60,19 @@ Server side means they have to be installed on the server and the client to func
 
 </details>
 
-Items with a star (★) next to them are things I highly recommend
+### Items with a star (★) next to them are things I highly recommend
 
 ## **Mod Descriptions**
 
 <details>
 <summary>Mod List</summary>
 
-### IMPORTANT 
 
-If you're installing any of these mods, it is recommended to install clothConfig, fabricAPI, fabricLanguageKotlin, maLiLib, modMenu, and yetAnotherConfigLib. These are required by most of these mods and aren't listed as dependencies.
+### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
 
-## [Modrinth Collection](<https://modrinth.com/collection/Da5NsVQ4>)
+### [masady Mods updated by sakura-ryoko](<https://github.com/sakura-ryoko>)
 
-## [CurseForge Collection](<https://legacy.curseforge.com/members/nuth_an/favorites>)
+### [Carpet Mod](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>
 
 
 - [advancementInfoReloaded](<https://modrinth.com/mod/advancements-reloaded/versions>)
