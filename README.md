@@ -60,10 +60,8 @@
 
 #### Items with a star (★) next to them are things I highly recommend
 
-## **Mod Descriptions**
-
 <details>
-<summary>Mod List</summary>
+<summary># Mods</summary>
 
 
 #### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
@@ -263,11 +261,9 @@
 
 </details>
 
-## **Resourcepack Descriptions**
-
 <details>
 
-<summary>Resourcepack List</summary>
+<summary>## Resourcepacks</summary>
 
 - cowTotem
   - A little texture I made that turns the totem of undying into a cute little cow
