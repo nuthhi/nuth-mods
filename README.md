@@ -64,16 +64,10 @@
 <summary>Mods</summary>
 
 
-#### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
-
-#### [Carpet Mod](<https://github.com/gnembon/fabric-carpet>)
-
-#### [Carpet Extra Mod](<https://github.com/gnembon/carpet-extra>)
+#### [Modrinth Collection](<https://modrinth.com/collection/SF14TsVU>)
 
 
-
-
-- [advancementInfoReloaded](<https://modrinth.com/mod/advancements-reloaded/versions>)
+- [advancementsReloaded](<https://modrinth.com/mod/advancements-reloaded/versions>)
   - Tells the user what they need to do to accomplish an advancement
 
 - [architectury (library)](<https://modrinth.com/mod/architectury-api/versions?l=fabric>)
@@ -104,7 +98,7 @@
 - [calcMod](<https://modrinth.com/mod/calcmod/versions?l=fabric>)
   - Useful calculator with chat commands
 
-- [carpetExtra](<https://modrinth.com/mod/carpet-extra/versions>)
+- [carpetExtra](<https://github.com/gnembon/carpet-extra>)
   - Adds some more cool carpet features
 
 - [carpetTIS](<https://modrinth.com/mod/carpet-tis-addition/versions>)
@@ -115,8 +109,6 @@
 
 - [chatHeads](<https://modrinth.com/mod/chat-heads/versions?l=fabric>)
   - Adds a little image of the users skin next to chat messages
-
-- [citResewn (library)](<https://modrinth.com/mod/cit-resewn/versions>)
 
 - ★[clothConfig (library)](<https://modrinth.com/mod/cloth-config/versions?l=fabric>)
 
@@ -134,21 +126,18 @@
 - [cyclePaintings](<https://modrinth.com/mod/cycle-paintings/versions?l=fabric>)
   - Cycle paintings easily
 
-- [dataAPI (library)](<https://modrinth.com/datapack/developer-resources/versions?l=fabric>)
-
-- ★[elytraTrims](<https://modrinth.com/mod/elytra-trims/versions?l=fabric>)
-  - Add trims to elytra
-
+- [entityCulling (performance)](<https://modrinth.com/mod/entityculling/versions?l=fabric>)
+  - Culls more entities
 
 - [essential](<https://modrinth.com/mod/essential/versions?l=fabric>)
   - Free and easy join world feature
 
 - ★[fabricAPI (library)](<https://modrinth.com/mod/fabric-api/versions>)
 
-- ★[carpet](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+- ★[carpet](<https://github.com/gnembon/fabric-carpet>)
   - Adds a ton of cool technical features
 
-- ★[fabricLanguageKotlin (library)](<https://modrinth.com/mod/fabric-language-kotlin/versions>)
+- ★[kotlin (library)](<https://modrinth.com/mod/fabric-language-kotlin/versions>)
 
 - [ferriteCore (performance)](<https://modrinth.com/mod/ferrite-core/versions?l=fabric>)
 
@@ -157,12 +146,10 @@
 
 - [immediatelyFast (performance)](<https://modrinth.com/mod/immediatelyfast/versions?l=fabric>)
 
-- ★[indium (performance)](<https://modrinth.com/mod/indium/versions?l=fabric>)
-
 - ★[iris](<https://modrinth.com/mod/iris/versions?l=fabric>)
   - Best shader loader in existence
 
-- ★[itemScroller](<https://github.com/sakura-ryoko/itemscroller/releases>)
+- ★[itemScroller](<https://modrinth.com/mod/item-scroller/versions>)
   - Amazing mod that makes it way easier to move items around in the inventory
 
 - [kleeSlabs](<https://modrinth.com/mod/kleeslabs/versions?l=fabric>)
@@ -170,18 +157,21 @@
 
 - [konkrete (library)](<https://modrinth.com/mod/konkrete/versions?l=fabric>)
 
+- ★[lambDynamicLights](<https://modrinth.com/mod/lambdynamiclights/versions?l=fabric>)
+  - Dynamic lights
+
 - [libJF (library)](<https://modrinth.com/mod/libjf/versions>)
 
-- ★[litematica](<https://github.com/sakura-ryoko/litematica/releases>)
+- ★[litematica](<https://modrinth.com/mod/litematica/versions?l=fabric>)
   - Building mod to create ghost outlines of your builds for easier building process in survival
 
 - ★[lithium (performance)](<https://modrinth.com/mod/lithium/versions?l=fabric>)
 
-- ★[maLiLib (library)](<https://github.com/sakura-ryoko/malilib/releases>)
+- ★[maLiLib (library)](<https://modrinth.com/mod/malilib/versions?l=fabric>)
 
 - [melody (library)](<https://modrinth.com/mod/melody/versions?l=fabric>)
 
-- ★[miniHUD](<https://github.com/sakura-ryoko/minihud/releases>)
+- ★[miniHUD](<https://modrinth.com/mod/minihud/versions?l=fabric>)
   - Custom miniHUD with valuable info lines
 
 - [modelFix](<https://modrinth.com/mod/modelfix/versions?l=fabric>)
@@ -203,13 +193,11 @@
 - [netherPortalFix](<https://modrinth.com/mod/netherportalfix/versions?l=fabric>)
   - Fixes some wacky behavior with nether portals
 
-- ★[noResourcePackWarnings](<https://modrinth.com/mod/no-resource-pack-warnings/versions>)
-  - Removes the warning that a resource pack is from an older version
-
 - ★[noTelemetry](<https://modrinth.com/mod/no-telemetry/versions?l=fabric>)
   - Stops Microsoft from datamining your Minecraft
 
-- [obsidianUI (library)](<https://modrinth.com/mod/obsidianui/versions?l=fabric>)
+- [notEnoughAnimations](<https://modrinth.com/mod/not-enough-animations/versions?l=fabric>)
+  - Adds some more third person animations
 
 - [placeholderAPI (library)](<https://modrinth.com/mod/placeholder-api/versions?l=fabric>)
 
@@ -218,9 +206,6 @@
 
 - [resourcePackOpts](<https://modrinth.com/mod/respackopts/versions>)
   - Configure resource packs
-
-- ★[ryoamicLights](<https://modrinth.com/mod/ryoamiclights/versions?l=fabric>)
-  - Dynamic lights
 
 - [searchables (library)](<https://modrinth.com/mod/searchables/versions?l=fabric>)
 
@@ -237,7 +222,7 @@
 - [tweakermore](<https://modrinth.com/mod/tweakermore/versions>)
   - Adds some more tweakeroo features
 
-- ★[tweakeroo](<https://github.com/sakura-ryoko/tweakeroo/releases>)
+- ★[tweakeroo](<https://modrinth.com/mod/tweakeroo/versions?l=fabric>)
   - Crazy all-in-one technical mod
 
 - [visuality](<https://modrinth.com/mod/visuality/versions?l=fabric>)
@@ -246,11 +231,13 @@
 - [voiceChat](<https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric>)
   - Adds a simple voice chat
 
-- ★[wiZoom](<https://modrinth.com/mod/wi-zoom/versions?l=fabric>)
+- ★[WIZoom](<https://modrinth.com/mod/wi-zoom/versions?l=fabric>)
   - My favorite zoom mod ever
 
 - [yeetusExperimentus](<https://modrinth.com/mod/yeetus-experimentus/versions?l=fabric>)
   - Removes the experimental settings popup (performance enhancer)
+
+- [yetAnotherConfigLib (library)](<https://modrinth.com/mod/yacl/versions?l=fabric>)
 
 </details>
 
@@ -267,8 +254,6 @@
 - ★[redstoneTweaks](<https://modrinth.com/resourcepack/redstone-tweaks/versions>)
   - Extremely splendid pack that makes redstone components much easier to read and tell what direction they're facing, as well as much more
 
-- darkGUI
-
 - betterEggs
   - Recolors eggs and turtle eggs
 
@@ -277,9 +262,6 @@
 
 - consistentSigns
   - Makes hanging signs and normal signs be consistent
-
-- livingDragon
-  - Gives the dragon egg an animated texture like a heartbeat
 
 - obsidianEnderChest
   - Retextures ender chest to resemble obsidian
@@ -294,10 +276,7 @@
   - See the .txt file for a list of all selected packs
  
 - timeToShweep
-  - Changes phantoms' voices to be Bdubs saying "Time to shweep!"
-
-- simpleGrassFlowers
-  - Adds little details and variations to grass, podzol, mycelium, and nylium
+  - Changes phantoms' voices to be Bdubs saying "Uh-oh! Time to shweep!"
 
 - [eatingAnimation](<https://www.curseforge.com/minecraft/texture-packs/theones-eating-animation-pack/files/all?page=1&pageSize=20>)
   - Adds eating animations
