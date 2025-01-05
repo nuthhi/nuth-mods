@@ -66,9 +66,11 @@
 
 #### [Modrinth Collection](<https://modrinth.com/collection/77dvc9MK>)
 
-#### [masady Mods updated by sakura-ryoko](<https://github.com/sakura-ryoko>)
+#### [Carpet Mod](<https://github.com/gnembon/fabric-carpet>)
 
-#### [Carpet Mod](<https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4>)
+#### [Carpet Extra Mod](<https://github.com/gnembon/carpet-extra>)
+
+
 
 
 - [advancementInfoReloaded](<https://modrinth.com/mod/advancements-reloaded/versions>)
@@ -134,14 +136,8 @@
 
 - [dataAPI (library)](<https://modrinth.com/datapack/developer-resources/versions?l=fabric>)
 
-- [eatingAnimation](<https://modrinth.com/mod/eating-animation/versions>)
-  - Adds cool eating animations for most foods (golden carrots sometimes works?)
-
 - ★[elytraTrims](<https://modrinth.com/mod/elytra-trims/versions?l=fabric>)
   - Add trims to elytra
-
-- ★[enhancedBlockEntities](<https://modrinth.com/mod/ebe/versions?l=fabric>)
-  - Optimizes block entity models
 
 
 - [essential](<https://modrinth.com/mod/essential/versions?l=fabric>)
@@ -236,9 +232,6 @@
 - ★[sodium (performance)](<https://modrinth.com/mod/sodium/versions?l=fabric>)
   - The goat of performance mods
 
-- ★[stendhal](<https://modrinth.com/mod/stendhal/versions>)
-  - Adds the whole unicode library in the game GUI, allowing for symbols in signs, chat, etc.
-
 - [TCDCommonsAPI (library)](<https://modrinth.com/mod/tcdcommons/versions?l=fabric>)
 
 - [tweakermore](<https://modrinth.com/mod/tweakermore/versions>)
@@ -305,5 +298,8 @@
 
 - simpleGrassFlowers
   - Adds little details and variations to grass, podzol, mycelium, and nylium
+
+- [eatingAnimation](<https://www.curseforge.com/minecraft/texture-packs/theones-eating-animation-pack/files/all?page=1&pageSize=20>)
+  - Adds eating animations
 
 </details>
